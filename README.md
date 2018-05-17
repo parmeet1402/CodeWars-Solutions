@@ -1,2 +1,2 @@
 # CodeWars-Solutions
-This repo contains my solutions to codewars questions. 
+This repo contains my JavaScript Solutions to codewars questions. 
